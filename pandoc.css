@@ -21,9 +21,7 @@ table {
 	table-layout: auto;
 }
 
-h1 a, { 
-    text-decoration: none;
-}
+
 h1 { 
 	font-family: roboto;
     font-weight: bold;
@@ -48,5 +46,4 @@ a:hover {
 /* selected link */
 a:active {
   color: #B22222;
-}
 }
