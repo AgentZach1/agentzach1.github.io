@@ -1,3 +1,5 @@
+import * as THREE from 'three';
+
 /**
  * Goal is to create a cute environment 
  * that you can run around in. See my projects like an art
