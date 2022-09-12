@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from './three.js';
 
 /**
  * Goal is to create a cute environment 
