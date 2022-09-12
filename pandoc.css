@@ -1,0 +1,52 @@
+body {
+	margin: auto;
+	padding-right: 1em;
+	padding-left: 1em;
+	max-width: 44em;
+	border-left: 10px double #808080;
+	border-right: 10px double #808088;
+	border-top: 10px solid #808088;
+	background-image: url(websiteBackground.jpg);
+	background-color: #FFE4C4;
+	color: black;
+    font-family: Roboto, sans-serif;
+    font-size: 100%;
+    line-height: 100%;
+    color: #662e2f; 
+}
+
+table {
+	color: black;
+	font-family: roboto;
+	table-layout: auto;
+}
+
+h1 a, { 
+    text-decoration: none;
+}
+h1 { 
+	font-family: roboto;
+    font-weight: bold;
+    font-size: 250%;
+}
+
+
+a:link {
+  color: #D2691E;
+}
+
+/* visited link */
+a:visited {
+  color: #DC143C;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #B22222;
+}
+}
