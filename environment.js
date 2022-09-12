@@ -22,8 +22,8 @@ import * as THREE from 'three';
     // RN set at quarter size
     // Update Style on true
     renderer.setSize(window.innerWidth/2, window.innerHeight/2, true);
-    document.body.appendChild(renderer.domElement);
-
+    //document.body.appendChild(renderer.domElement);
+    document.getElementById("3DDiv").appendChild(renderer.domElement);
     // Box Stuff
     // Need box geometry that contains vertices to fill the faces of the cube
     const geometry = new THREE.BoxGeometry(1, 1, 1);
